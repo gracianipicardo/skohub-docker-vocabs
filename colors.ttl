@@ -4,19 +4,19 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 colour: a skos:ConceptScheme ;
-    dct:title "Colores Vocabulario"@sp ;
+    dct:title "Colores Vocabulario"@sp, "Colours Vocabulary"@en ;
     dct:creator "Paloma"@sp ;
-    dct:created "2021-11-02"^^xsd:date ;
+    dct:created "2022-11-30"^^xsd:date ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     skos:hasTopConcept colour:rojo, colour:azul.
 
 colour:rojo a skos:Concept ;
-    skos:prefLabel "rojo"@sp ;
+    skos:prefLabel "rojo"@sp, "red"@en;
     skos:altLabel "bermellon"@sp ;
     skos:topConceptOf colour: .
 
 colour:azul a skos:Concept ;
-    skos:prefLabel "azul"@sp ;
+    skos:prefLabel "azul"@sp "blue"@en;
     skos:altLabel "indigo"@sp ;
     skos:topConceptOf colour: .
 

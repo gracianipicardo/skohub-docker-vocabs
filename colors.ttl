@@ -11,12 +11,12 @@ colour: a skos:ConceptScheme ;
     skos:hasTopConcept colour:rojo, colour:azul.
 
 colour:rojo a skos:Concept ;
-    skos:prefLabel "rojo"@sp, "red"@en;
+    skos:prefLabel "rojo"@sp, "red"@en ;
     skos:altLabel "bermellon"@sp ;
     skos:topConceptOf colour: .
 
 colour:azul a skos:Concept ;
-    skos:prefLabel "azul"@sp "blue"@en;
+    skos:prefLabel "azul"@sp, "blue"@en ;
     skos:altLabel "indigo"@sp ;
     skos:topConceptOf colour: .
 

@@ -1,9 +1,13 @@
 {
-  "id": "https://example.org/colour/blue",
+  "id": "https://example.org/colour/azul",
   "type": "Concept",
   "prefLabel": {
-    "en": "Blue",
     "sp": "azul"
+  },
+  "altLabel": {
+    "sp": [
+      "indigo"
+    ]
   },
   "inScheme": {
     "id": "https://example.org/colour/",

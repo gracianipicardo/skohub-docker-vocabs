@@ -1,16 +1,12 @@
 {
-  "id": "https://example.org/colour/violet",
+  "id": "https://example.org/colour/rojo",
   "type": "Concept",
   "prefLabel": {
-    "en": "violet",
-    "de": "Violett"
+    "sp": "rojo"
   },
   "altLabel": {
-    "en": [
-      "purple"
-    ],
-    "de": [
-      "Lila"
+    "sp": [
+      "bermellon"
     ]
   },
   "inScheme": {

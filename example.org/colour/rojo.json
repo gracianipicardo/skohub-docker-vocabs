@@ -2,7 +2,8 @@
   "id": "https://example.org/colour/rojo",
   "type": "Concept",
   "prefLabel": {
-    "sp": "rojo"
+    "sp": "rojo",
+    "en": "red"
   },
   "altLabel": {
     "sp": [
@@ -12,7 +13,8 @@
   "inScheme": {
     "id": "https://example.org/colour/",
     "title": {
-      "sp": "Colores Vocabulario"
+      "sp": "Colores Vocabulario",
+      "en": "Colours Vocabulary"
     }
   },
   "topConceptOf": {

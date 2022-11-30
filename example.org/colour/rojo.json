@@ -12,8 +12,7 @@
   "inScheme": {
     "id": "https://example.org/colour/",
     "title": {
-      "en": "Colour Vocabulary",
-      "de": "Farbvokabular"
+      "sp": "Colores Vocabulario"
     }
   },
   "topConceptOf": {
